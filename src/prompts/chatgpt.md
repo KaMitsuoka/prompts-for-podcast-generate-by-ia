@@ -16,7 +16,6 @@ O podcast vai falar sobre dicas e novidades sobre o mundo da inteligência artif
 {REGRAS NEGATIVAS}
 -Não quero que o nome contenha palavras em inglês no título
 -Não utilize a palavra inteligência artificial no nome                                                     |
-
 | roteiro | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em Inteligência Artificial cujo o nome é "A Jornada do Algoritmo: Um caminho inesperado pela evolução digital." e tem foco em inteligência artificial,  com o público alvo de iniciantes em IA.
 
 o formato do roteiro deve ser
